@@ -11,4 +11,5 @@ Pre-requisites
    5. IO
 4. Data Set
    Gistemp1200_GHCNv4_ERSSTv5.nc
-First install all the pre-requisites libraries in anaconda. Then open jupyter notebook and import the dataset file and then copy the code and run it and get the output.
+   
+   First install all the pre-requisites libraries in anaconda. Then open jupyter notebook and import the dataset file and then copy the code and run it and get the output.
