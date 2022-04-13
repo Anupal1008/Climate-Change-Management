@@ -1,0 +1,2 @@
+xr_df = xr.open_dataset('gistemp1200_GHCNv4_ERSSTv5.nc')
+xr_df
